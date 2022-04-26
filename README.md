@@ -4,7 +4,7 @@ I Love leaning and Coding
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 
-<img align="right" width="300" src="https://media1.giphy.com/media/LpiCuXbWZxekiyG1wU/giphy.gif?cid=ecf05e47c5123e0de5a66cbf490b10bc73f046b8ee4e9f85&rid=giphy.gif&ct=s" />
+<img align="right" width="300" src="https://media1.giphy.com/media/cXyZz0QUrWEak/giphy.gif?cid=790b761103096f7d8fce4a01e7065771c13853c18a9257ba&rid=giphy.gif&ct=s" />
 
 ```python
 from Soft import chill, coding, hacking
