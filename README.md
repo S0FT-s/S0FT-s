@@ -11,10 +11,11 @@ from Soft import chill, coding, hacking
 
 age = 15
 from = 127.0.0.1
-dream = "be a good dev, have samoyed"
+dream = "be a good dev"
 
-langs = ['python','nodejs']
-langs_to_learn = ['c','sql']
+learning = ['sql','nodejs']
+langs = ['python','javascript']
+langs_to_learn = ['c']
 
 ```
 
