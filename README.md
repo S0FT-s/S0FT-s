@@ -9,13 +9,13 @@ I Love leaning and Coding
 ```python
 from Soft import chill, coding
 
-age = 15
+age = '?'
 from = 127.0.0.1
-dream = "be a good dev"
+dream = "get better at coding"
 
-learning = ['sql','nodejs']
+learning = ['']
 langs = ['python','javascript']
-langs_to_learn = ['c']
+langs_to_learn = ['c', 'SQL']
 
 ```
 
